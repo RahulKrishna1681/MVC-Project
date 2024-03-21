@@ -1,0 +1,128 @@
+﻿@model BookDash.Data.FormDataa
+
+<style>
+    <style >
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    h1 {
+        color: #ff0000;
+        font-size: 30px; /* Increased font size */
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label {
+        display: block;
+        font-weight: bold;
+        color: #ff0000;
+        margin-bottom: 5px;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="submit"] {
+        width: 100%;
+        padding: 15px; /* Increased padding */
+        border: 1px solid #8b0000;
+        border-radius: 5px;
+        font-size: 15px; /* Increased font size */
+    }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus {
+            outline: none;
+            border-color: #8b0000;
+        }
+
+    input[type="submit"] {
+        background-color: #8b0000; /* Dark red color */
+        color: #ffffff; /* White text color */
+        cursor: pointer;
+    }
+
+        input[type="submit"]:hover {
+            background-color: #8b0000; /* Dark red color */
+        }
+
+    .error {
+        color: #8b0000;
+        margin-bottom: 20px;
+    }
+</style>
+
+
+<div class="container" style="text-align: left;>
+    <span class="subheading">Shopping</span>
+    <h2 class="heading-secondary">
+        Give Details of the books you Want
+    </h2>
+</div>
+
+<form id="bookForm"  method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Enter Your Name:</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email" class="control-label">Enter Your Email:</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PhoneNumber" class="control-label">Enter Your Phone Number:</label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div id="bookNames">
+        <div class="form-group">
+            <label asp-for="BookName" class="control-label">Enter Your Book Name:</label>
+            <input asp-for="BookName" class="form-control" />
+            <span asp-validation-for="BookName" class="text-danger"></span>
+            <button type="button" class="btn btn-danger remove-book">Remove Book</button>
+        </div>
+    </div>
+
+    <button type="button" id="addBookButton" class="btn btn-secondary">Add Book</button>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    <script>
+        document.getElementById('addBookButton').addEventListener('click', function() {
+            var bookNamesDiv = document.getElementById('bookNames');
+            var newBookDiv = document.createElement('div');
+            newBookDiv.classList.add('form-group');
+            newBookDiv.innerHTML = '<label>Book Name:</label> <input type="text" name="BookNames" class="form-control" required /> <button type="button" class="btn btn-danger remove-book">Remove Book</button>';
+            bookNamesDiv.appendChild(newBookDiv);
+        });
+
+        document.getElementById('bookNames').addEventListener('click', function(event) {
+            if (event.target.classList.contains('remove-book')) {
+                event.target.parentElement.remove();
+            }
+        });
+    </script>
+}
+
+
+    

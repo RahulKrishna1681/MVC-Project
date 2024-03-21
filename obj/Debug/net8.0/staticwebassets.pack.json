@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookDash.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookDash.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\css\\general.css",
+      "PackagePath": "staticwebassets\\css\\general.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\css\\queries.css",
+      "PackagePath": "staticwebassets\\css\\queries.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s1.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s1.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s10.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s10.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s11.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s11.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s12.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s12.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s2.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s2.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s3.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s3.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s4.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s4.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s5.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s5.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s6.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s6.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s7.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s7.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s8.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s8.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\10s9.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\10s9.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\Customer1.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\Customer1.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\Customer2.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\Customer2.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\Customer3.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\Customer3.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\Customer4.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\Customer4.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\Customer5.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\Customer5.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\Customer6.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\Customer6.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\ap.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\ap.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\collage.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\collage.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\collage1.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\collage1.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\collage3.jpg",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\collage3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\d.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\d.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\ebook1.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\ebook1.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\ebook2.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\ebook2.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\ebook3.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\ebook3.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\hindu.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\hindu.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\hp.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\hp.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\ht.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\ht.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\kmr.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\kmr.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\mobile-mobile.jpg",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\mobile-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\pb.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\pb.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\read.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\read.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\tnie.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\tnie.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\toi.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\toi.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\Updated Logo\\u.png",
+      "PackagePath": "staticwebassets\\img\\Updated Logo\\u.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\app\\app-screen-1.png",
+      "PackagePath": "staticwebassets\\img\\app\\app-screen-1.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\app\\app-screen-2.png",
+      "PackagePath": "staticwebassets\\img\\app\\app-screen-2.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\app\\app-screen-3.png",
+      "PackagePath": "staticwebassets\\img\\app\\app-screen-3.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\ben.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\ben.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\customer-1.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\customer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\customer-2.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\customer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\customer-3.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\customer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\customer-4.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\customer-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\customer-5.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\customer-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\customer-6.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\customer-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\dave.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\dave.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\hannah.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\hannah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\customers\\steve.jpg",
+      "PackagePath": "staticwebassets\\img\\customers\\steve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\eating.jpg",
+      "PackagePath": "staticwebassets\\img\\eating.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\favicon-192.png",
+      "PackagePath": "staticwebassets\\img\\favicon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\favicon-512.png",
+      "PackagePath": "staticwebassets\\img\\favicon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-11.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-12.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\gallery\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\hero-min.png",
+      "PackagePath": "staticwebassets\\img\\hero-min.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\hero.png",
+      "PackagePath": "staticwebassets\\img\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\hero.webp",
+      "PackagePath": "staticwebassets\\img\\hero.webp"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\logos\\business-insider.png",
+      "PackagePath": "staticwebassets\\img\\logos\\business-insider.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\logos\\forbes.png",
+      "PackagePath": "staticwebassets\\img\\logos\\forbes.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\logos\\techcrunch.png",
+      "PackagePath": "staticwebassets\\img\\logos\\techcrunch.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\logos\\the-new-york-times.png",
+      "PackagePath": "staticwebassets\\img\\logos\\the-new-york-times.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\logos\\usa-today.png",
+      "PackagePath": "staticwebassets\\img\\logos\\usa-today.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\meals\\meal-1.jpg",
+      "PackagePath": "staticwebassets\\img\\meals\\meal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\meals\\meal-2.jpg",
+      "PackagePath": "staticwebassets\\img\\meals\\meal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\img\\omnifood-logo.png",
+      "PackagePath": "staticwebassets\\img\\omnifood-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2318324\\source\\repos\\BookDash\\BookDash\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookDash.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookDash.props",
+      "PackagePath": "build\\BookDash.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookDash.props",
+      "PackagePath": "buildMultiTargeting\\BookDash.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookDash.props",
+      "PackagePath": "buildTransitive\\BookDash.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

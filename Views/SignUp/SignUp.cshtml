@@ -1,0 +1,25 @@
+@model BookDash.Data.LoginViewModel
+
+<section class="section-books" id="books">
+    <div class="container">
+        <span class="subheading">Sign-Up</span>
+        <h2 class="heading-secondary">
+            Join the Readers Community Today....!!!!!!!!!
+        </h2>
+    </div>
+  <div class="container center-text">
+    <p class="try-it-description">
+      Sign up now for a free trial and start exploring our vast library of books. No credit card required.
+    </p>
+    <form class="try-it-form" method="post">
+      <input asp-for="Name" type="text" id="username" placeholder="Username" required><br><br>
+      <input asp-for="Email" type="email" id="email" class="form-control" placeholder="Email" required><br><br>
+      <input asp-for="Phone" type="text" id="phone" placeholder="Phone" required><br><br>
+      <input asp-for="Password" type="password" id="password" placeholder="Password" required><br><br>
+      <button type="submit" class="btn btn--primary">Sign Up</button>
+    </form>
+  </div>
+</section>
+@{
+    Layout = "Noheader";
+}

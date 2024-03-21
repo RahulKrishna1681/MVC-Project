@@ -1,0 +1,23 @@
+﻿@model User
+
+<section class="section-books" id="books">
+    <div class="container">
+        <span class="subheading">Login</span>
+        <h2 class="heading-secondary">
+            Welcome back to the Readers Community
+        </h2>
+    </div>
+<div id="content-login"  align="center">
+    
+    <form method="post">
+
+        <h1>Login</h1>
+        <input asp-for="Name" type="text" id="username" placeholder="Username" required><br><br>
+        <input asp-for="Password" type="password" id="password" placeholder="Password" required><br><br>
+        <input type="submit" value="Login">
+    </form>
+</div>
+</section>
+@{
+    Layout = "Noheader";
+}

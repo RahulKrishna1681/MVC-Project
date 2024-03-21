@@ -1,0 +1,45 @@
+﻿@{
+    Layout = "AdminHeader";
+}
+
+@model List<BookDash.Data.FormDataa>
+
+<h1>Users</h1>
+
+<section>
+    <table class="table">
+        <thead>
+            <tr>
+                <th><h5>Name</h5></th>
+                <th><h5>Email</h5></th>
+                <th><h5>Phone Number</h5></th>
+                <th><h5>BookName</h5></th>
+                <th><h5>Action</h5></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var formData in Model)
+            {
+                <tr>
+                    <td>@formData.Name</td>
+                    <td>@formData.Email</td>
+                    <td>@formData.PhoneNumber</td>
+                    <td>@formData.BookName</td>
+                    <td>
+                        <button class="btn btn-success" onclick="acceptOrder('@formData.Id')">Accept</button>
+                        <form method="post" action="@Url.Action("Delete", "FormData", new { id = formData.Id })">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>
+
+<script>
+    function acceptOrder(id) {
+        alert("Order successfully accepted.");
+    }
+</script>
+
